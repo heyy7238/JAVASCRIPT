@@ -8,3 +8,5 @@
 - var add = new Function("x+y","retrun x+y");
 - var add = function(x,y){return x+y;}; (익명함수)
 - function add(x,y){return x+y;}
+<br>
+#parseInt("123abc") ---> 123 (자동으로 substring가능)
