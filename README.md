@@ -10,3 +10,5 @@
 - function add(x,y){return x+y;}
 <br>
 #parseInt("123abc") ---> 123 (자동으로 substring가능)
+<br>
+- 주석도 자식node이다.
